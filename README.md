@@ -6,8 +6,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 | Feature  | Description                  |
 | -------- | ---------------------------- |
-| Feature1 | ![](.images/feature1-01.jpg) |
-| Feature2 | ![](.images/feature1-01.jpg) |
+| Feature1 | ![](images/feature1-01.jpg) |
+| Feature2 | ![](images/feature2-01.jpg) |
 
 ### Developer / Designer
 
