@@ -3,7 +3,7 @@
 # Lego Music Mixer Play Game
 
 **You can play a Fun Lego Music Mixer here!**  
-Just pick any part of legos you want and drop in the box on the right.  
+Just pick any pieces of legos you want and drop in the box on the right.  
 No matter how they fit together, music is going to play well.  
 But! If you make them look little bit nicer, the sound would be way better I guess.  
 Enjoy and have a relaxing time here 🎵 :musical_note:
