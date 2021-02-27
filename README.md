@@ -14,10 +14,13 @@ Enjoy and have a relaxing time here 🎵 :musical_note:
 ---
 
 
+
 | Feature  | Description                 |
 | -------- | --------------------------- |
 | Feature1 | <img src="images/feature1-01.jpg" width="400"> |
 | Feature2 | <img src="images/feature2-01.jpg" width="400"> |
+
+<img src="images/plyer.gif">
 
 ### Developer / Designer
 
