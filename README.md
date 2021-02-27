@@ -4,10 +4,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ---
 
-| Feature  | Description                  |
-| -------- | ---------------------------- |
-| Feature1 | ![](.images/feature1-01.jpg) |
-| Feature2 | ![](.images/feature1-01.jpg) |
+| Feature  | Description                 |
+| -------- | --------------------------- |
+| Feature1 | ![](images/feature1-01.jpg) |
+| Feature2 | ![](images/feature2-01.jpg) |
 
 ### Developer / Designer
 
@@ -36,6 +36,10 @@ Factory reference
 [02](https://www.pinterest.co.kr/pin/173247916899383815/)
 [03](https://www.pinterest.co.kr/pin/259027416046906560/)
 
-###
+### Before release
+
+- [x] Complete nice ReadMe file
+- [x] Check Drag and Drop effect
+- [x] Clean Document outline
 
 ##### Copyright ⓒ 2021 by YeonjuKim All rights reserved.
