@@ -2,7 +2,7 @@
 
 
 
-# Lego Music Mixer
+# Lego Music Mixer Play Game
 
 **You can play a Fun Lego Music Mixer here!**  
 Just pick any part of legos you want and drop in the box on the right.   
