@@ -38,9 +38,9 @@ Factory reference
 
 ### Before release
 
--[x]Complete nice ReadMe file
--[x]Check Drag and Drop effect
--[x]Clean Document outline
+- [ ] Complete nice ReadMe file
+- [ ] Check Drag and Drop effect
+- [ ] Clean Document outline
 
 
 ##### Copyright ⓒ 2021 by YeonjuKim All rights reserved.
