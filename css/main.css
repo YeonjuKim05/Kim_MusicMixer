@@ -116,3 +116,12 @@ p {
   font-size: 1.25em;
   cursor: pointer;
 }
+
+.audio-controls button:hover {
+  background-color: #fe414d;
+}
+
+button:focus {
+  outline: 0;
+  background-color: #fe414d;
+}
