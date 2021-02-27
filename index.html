@@ -4,53 +4,81 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="https://use.typekit.net/edv6yjr.css">
+  <link href="css/reset.css" rel="stylesheet" type="text/css">
+  <link href="css/main.css" rel="stylesheet" type="text/css">
 
   <title>Lego Music Mixer PlayGame</title>
 </head>
 <body>
     <header id="title">
+        <img src="images/movingtitle2.gif" >
         <h1 class="hidden">Lego Music Mixer PlayGame</h1>
-        <img src="images/movingtitle.gif">
-        <p> Have a fun with Lego Music Player! </p>
+         <!-- <img src="images/plyer.gif" class="picker"> -->
     </header>
-
     <section id="gameBoard">
+
         <h2 class="hidden">The Game Board</h2>
         <section id="dragZone">
             <div class="legoPieces">
                 <h3 class="hidden">lego head</h3>
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
+                <audio src="audio/music_1.mp3" ></audio>
+
+                
+                <img data-trackref="music_1" src="images/legofaces-03.png" alt="top first" class="track-ref">
+                <img src="images/legofaces-04.png" alt="top second" class="lego-image">
+                <img src="images/legofaces-05.png" alt="top third" class="lego-image">
+                <img src="images/legofaces-06.png" alt="top fourth" class="lego-image">
             </div>
-            <div class="legoPieces">
+            <div class="legoPieces2">
                 <h3 class="hidden">lego body</h3>
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
+                <img src="images/legobody-07.png" alt="top first" class="lego-image">
+                <img src="images/legobody-08.png" alt="top second" class="lego-image">
+                <img src="images/legobody-09.png" alt="top third" class="lego-image">
+                <img src="images/legobody-10.png" alt="top fourth" class="lego-image">
             </div>
-            <div class="legoPieces">
-                <h3 class="hidden">lego legs</h3>
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
-                <img src="#" alt="top first" class="lego-image">
+            <div class="legoPieces3">
+                <h3 class="hidden">lego body</h3>
+                <img src="images/legolegs-07.png" alt="top first" class="lego-image">
+                <img src="images/legolegs-08.png" alt="top second" class="lego-image">
+                <img src="images/legolegs-09.png" alt="top third" class="lego-image">
+                <img src="images/legolegs-10.png" alt="top fourth" class="lego-image">
             </div>
         </section>
 
-        <section id="dropZone">
+    <section id="dropZone">
             <h3 class="hidden">Lego Drop Place</h3>
-            <div class="dropBox"></div>
-            <div class="dropBox"></div>
-            <div class="dropBox"></div>
-        </section>
+            <div class="dropZone1">
+                <div class="dropBox"></div>
+                 <section class="audio-controls">
+                    <button><i class="fas fa-play"></i></button>
+                    <button><i class="fas fa-stop-circle"></i></button>
+                    <button><i class="fas fa-backward"></i></button>
+                </section>
+            </div>
+            <div class="dropZone1">
+                <div class="dropBox"></div>
+                 <section class="audio-controls">
+                    <button><i class="fas fa-play"></i></button>
+                    <button><i class="fas fa-stop-circle"></i></button>
+                    <button><i class="fas fa-backward"></i></button>
+                </section>
+            </div>
+            <div class="dropZone1">
+                <div class="dropBox"></div>
+                 <section class="audio-controls">
+                    <button><i class="fas fa-play"></i></button>
+                    <button><i class="fas fa-stop-circle"></i></button>
+                    <button><i class="fas fa-backward"></i></button>
+                </section>
+            </div>
+        
     </section>
 
-    
-     
+    <footer>
+        <p class="hidden"> Have a fun with Lego Music Player! </p>
+    </footer>
+    <script src="https://kit.fontawesome.com/cee223b8d4.js" crossorigin="anonymous"></script>
     <script src="js/main.js"></script>
     <script src="script/app.js"></script>
 </body>

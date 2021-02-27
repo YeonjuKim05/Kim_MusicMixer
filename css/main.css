@@ -1,40 +1,118 @@
-* {
-  padding: 0;
-  margin: 0;
-  border: none;
-
-  box-sizing: border-box;
-}
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  background-color: #ffffe8;
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+  font-family: jaf-domus, sans-serif;
+  font-weight: 00;
+  font-size: 0.5em;
 }
 
-/* an em is a relative unit of measurement based on the body font size */
+#title {
+  margin-top: 1rem;
+  width: 100%;
+  text-align: center;
+}
 
-/* 1 em = 16px */
+#gameBoard {
+  padding: 0;
+  background-image: url(../images/legobackground.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 750px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+/* #dragZone {
+}
+*/
+
+#dropZone {
+  display: inline-block;
+
+  width: 300px;
+  margin-top: 67px;
+}
+
+.dropBox {
+  border: 2px dashed rgb(155, 155, 155);
+  border-radius: 25px;
+  margin-left: 65px;
+  width: 170px;
+  height: 170px;
+  margin-bottom: 50px;
+}
+
+/*.picker {
+  margin-top: 2.1rem;
+  width: 500px;
+  margin-left: 10rem;
+  float: left;
+}
+*/
+.legoPieces {
+  padding-top: 5rem;
+  margin-left: 5rem;
+}
+
+.legoPieces img {
+  padding: 2.5rem;
+}
+
+.legoPieces2 {
+  margin-left: 5rem;
+}
+
+.legoPieces2 img {
+  margin-top: 1.5rem;
+  padding: 1rem;
+}
+
+.legoPieces3 {
+  margin-left: 5rem;
+}
+
+.legoPieces3 img {
+  margin-top: 2.5rem;
+  padding: 1rem;
+}
 
 .hidden {
   display: none;
 }
 
-.audio-controls {
-  margin-top: 1.5em;
-  border-top: thin solid #333;
-}
-
-.audio-controls button {
-  padding: 0.5em 1em;
+p {
   margin-top: 0.5em;
-  background-color: green;
-  color: white;
-  font-size: 1.25em;
-  cursor: pointer;
+  font-family: jaf-domus, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 1.3em;
 }
 
 .track-ref {
-  display: inline-block;
   cursor: pointer;
   padding: 1em;
+}
+
+.dropZone1 {
+  display: flex;
+}
+
+.audio-controls button {
+  margin-top: 24px;
+  display: block;
+  margin-bottom: 10px;
+  margin-left: 30px;
+  border-radius: 7px;
+  color: #ffffe8;
+  padding: 8px;
+  background-color: #0b0e35;
+  border-style: none;
+  font-size: 1.25em;
+  cursor: pointer;
 }
