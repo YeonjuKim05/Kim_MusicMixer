@@ -35,13 +35,13 @@ Yeonju Kim
 
 ### Inspiration site
 
-Lego reference
+Lego reference  
 [01](https://chasematt.com/LEGO-Wes-Anderson)
 [02](https://chasematt.com/LEGO-Wes-Anderson)
 [03](https://www.pinterest.co.kr/pin/461337555582712448/)
 [04](https://dribbble.com/shots/4893105-1-Dribbble-Invite)
 
-Factory reference
+Factory reference  
 [01](https://www.pinterest.co.kr/pin/63331938499008888/)
 [02](https://www.pinterest.co.kr/pin/173247916899383815/)
 [03](https://www.pinterest.co.kr/pin/259027416046906560/)
