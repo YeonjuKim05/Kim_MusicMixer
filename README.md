@@ -23,7 +23,7 @@ Enjoy and have a relaxing time here 🎵 :musical_note:
 
 ___
 
-<img src="images/plyer.gif" width="500px;">
+<img src="images/pickup.gif" width="500px;">
 
 ### Developer / Designer
 
