@@ -4,8 +4,8 @@
 
 **You can play a Fun Lego Music Mixer here!**  
 Just pick any part of pieces you want and drop in the box on the right.  
-No matter how they fit together, music is going to play well!
-But there must be a good combination sound you need to find! 
+No matter how they fit together, music is going to play well.  
+But there must be a good combination sound you need to find!  
 Enjoy and have a relaxing time here 🎵 :musical_note:
 
 ---
